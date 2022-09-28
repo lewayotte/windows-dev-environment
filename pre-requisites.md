@@ -16,7 +16,7 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 
 ## WSL
 
-Install WSL. Open cmd and type the following:
+Install WSL. Open cmd as an Administrator and type the following:
 
 ```
 wsl --install
